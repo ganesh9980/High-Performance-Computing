@@ -1,6 +1,7 @@
 We compared Pymp and Joblib libraries on 2 majorly used datasets in the machine learning world. Those are Image and Stocks.
 
 Below are the links for the datasets we used from Kaggle:
+
 https://www.kaggle.com/jacksoncrow/stock-market-dataset
 
 https://www.kaggle.com/c/dogs-vs-cats/data
